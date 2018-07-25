@@ -1,6 +1,7 @@
 # Fortran
 
-### hello
-* Fortran 95 Hello World program
 ### arithmetic
 * Basic arithmetic operations
+
+### hello
+* Fortran 95 Hello World program
