@@ -11,8 +11,8 @@ program hypolen
     
     C = A**2 + B**2
     
-    PRINT *, "a =", a
-    PRINT *, "b =", b
+    PRINT *, "A =", A
+    PRINT *, "B =", B
     PRINT *, "the length of the hypotenuse is", SQRT(C)
     
 end program hypolen
